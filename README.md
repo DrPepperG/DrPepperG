@@ -3,7 +3,7 @@
 - 📧 Reach me at jcrain@asocket.net
 - 🤔 Currently learning **TypeScript**
 - 🖥️ Coding Languages
-  - **JavaScript**
+  - **JavaScript/Typescript**
   - **PHP**
   - **CSS/HTML**
 
