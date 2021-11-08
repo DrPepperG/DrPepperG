@@ -1,7 +1,6 @@
 ### Hi there! 🤠 👋
 
 - 📧 Reach me at jcrain@asocket.net
-- 🤔 Currently learning **TypeScript**
 - 🖥️ Coding Languages
   - **JavaScript/Typescript**
   - **PHP**
