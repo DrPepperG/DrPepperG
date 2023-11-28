@@ -1,6 +1,5 @@
 ### Hi there! 🤠 👋
 
-- 📧 Reach me at jcrain@asocket.net
 - 🖥️ Coding Languages
   - **JavaScript/Typescript**
   - **PHP**
